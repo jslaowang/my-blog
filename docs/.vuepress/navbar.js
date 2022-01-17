@@ -1,7 +1,8 @@
 // nav
 module.exports = [
   {
-    text: 'JavaScript', link: '/pages/js/'  },
+    text: 'JavaScript', link: '/pages/js/'
+  },
   {
     text: '框架',
     children: [
@@ -11,9 +12,7 @@ module.exports = [
   },
   {
     text: 'Node',
-    children: [
-      { text: 'Node.js', link: '/pages/node/' }
-    ],
+    link: '/pages/node/'
   },
   {
     text: '工程化',
@@ -23,5 +22,5 @@ module.exports = [
     ],
   },
   { text: '关于', link: '/pages/about/' },
-  { text: '收藏', link: '/pages/bookmark/'}
+  { text: '收藏', link: '/pages/bookmark/' }
 ]
