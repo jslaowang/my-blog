@@ -1,5 +1,6 @@
 # webpack 核心进阶
 
+此文章比较基础，可以结合掘金网的webpack文章学习
 
 ## 1. **webpack**与**grunt**、**gulp**的不同？ 
 

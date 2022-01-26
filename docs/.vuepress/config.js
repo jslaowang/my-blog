@@ -1,4 +1,5 @@
 const navbar = require('./navbar.js');
+
 module.exports = {
   // 站点配置
   lang: 'zh-CN',
@@ -18,9 +19,12 @@ module.exports = {
   // 主题和它的配置
   theme: '@vuepress/theme-default',
   themeConfig: {
+    home: '/pages/books/',
     navbar, // 顶部导航
     // logo: '/images/logo.png', //左上侧 logo
     repo: 'https://github.com/jslaowang',
-    editLink: false
+    editLink: false,
+    lastUpdated: false,
+    contributors: false,
   },
 }
