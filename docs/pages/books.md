@@ -8,14 +8,16 @@
 - [JavaScript重难点实例精讲]()
 - [JavaScript 语言精髓与编程实践（绿宝书）]()
 - [JavaScript设计模式与开发实践]()
+- [前端开发核心知识进阶]()
 
 ##  TypeScript
  
-- [深入理解TypeScript]()
+- [深入理解TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 - [TypeScript实战指南]()
  
 ## Vue
  
+- [深入浅出Vue.js]()
 - [Vue.js快跑]()
 - [Vue.js前端开发技术]()
 
@@ -30,6 +32,7 @@
 - [Node10实战]()
 - [Node权威指南]()
 - [Koa与Node.js开发实战]()
+- [深入浅出Node.js]()
 
 ## 网络
  

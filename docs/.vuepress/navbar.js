@@ -5,6 +5,7 @@ module.exports = [
     children: [
       { text: '书籍', link: '/pages/books/' },
       { text: '文章', link: '/pages/article/' },
+      { text: '课程', link: '/pages/course/' },
     ]
   },
   {
@@ -46,9 +47,9 @@ module.exports = [
     ],
   },
   {
-    text: '项目&博客',
+    text: '采坑&博客',
     children: [
-      { text: '项目难点', link: '/pages/problem/', },
+      { text: '采坑', link: '/pages/problem/', },
       { text: '博客', link: '/pages/blog/' }
     ],
   },
@@ -56,7 +57,7 @@ module.exports = [
     text: '关于&收藏',
     children: [
       { text: '关于', link: '/pages/about/' },
-      { text: '收藏', link: '/pages/bookmark/' }
+      { text: '收藏', link: '/pages/bookmark/' },
     ],
   },
 
