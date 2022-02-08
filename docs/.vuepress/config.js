@@ -18,6 +18,7 @@ module.exports = {
   editLink: false,
   // 主题和它的配置
   theme: '@vuepress/theme-default',
+  root: '/pages/books/',
   themeConfig: {
     home: '/pages/books/',
     navbar, // 顶部导航

@@ -3,7 +3,7 @@ module.exports = [
   {
     text: '书籍&文章',
     children: [
-      { text: '书籍', link: '/pages/books/' },
+      { text: '书籍', link: '/pages/books' },
       { text: '文章', link: '/pages/article/' },
       { text: '课程', link: '/pages/course/' },
     ]
@@ -58,6 +58,7 @@ module.exports = [
     children: [
       { text: '关于', link: '/pages/about/' },
       { text: '收藏', link: '/pages/bookmark/' },
+      { text: '健身', link: '/pages/fitness/' },
     ],
   },
 
