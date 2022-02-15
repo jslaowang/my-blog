@@ -14,6 +14,7 @@
 - [一百个Chocolate](https://yangchaoyi.vip/posts/20210101/)
 - [ssh的博客](https://github.com/sl1673495/blogs/issues/37)
 - [提升代码质量](https://juejin.cn/post/7026696335575220238#heading-72)
+- [木易杨](https://muyiy.cn/idea/)
 
 ## 经验
 - [艺术喵](https://juejin.cn/post/6844904113302568973)
