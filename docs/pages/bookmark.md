@@ -30,10 +30,5 @@
 - [生成代码图片](https://carbon.now.sh/)
 - [snippet generator](https://snippet-generator.app/)
 
-## 955
-- [955](https://github.com/ZuopanYao/955.WLB)
-
-## 996
-- [966](https://github.com/996icu/996.ICU/blob/master/README_CN.md)
 
 

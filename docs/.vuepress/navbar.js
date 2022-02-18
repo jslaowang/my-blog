@@ -59,6 +59,8 @@ module.exports = [
       { text: '关于', link: '/pages/about/' },
       { text: '收藏', link: '/pages/bookmark/' },
       { text: '健身', link: '/pages/fitness/' },
+      { text: 'Mac', link: '/pages/mac/' },
+      { text: '个人基础', link: '/pages/base/' },
     ],
   },
 
