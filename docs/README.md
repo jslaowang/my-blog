@@ -22,6 +22,7 @@
  
 ## Vue & React
  
+- [Vue.js设计与实现](https://www.ituring.com.cn/book/2953)
 - [深入浅出Vue.js]()
 - [深入浅出React和Redux]()
  

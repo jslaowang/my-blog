@@ -14,19 +14,21 @@
 
 ## 技术优势
 
-- 熟练掌握 **Vue.js**，了解Vue.js的基本实现原理
-- 热爱探索新技术，**Github** 活跃贡献者，参与xx开源项目
-- 擅长 **Web性能优化**，**前端工程化** 建设，能熟练使用 **Docker、Nginx**
+- 熟练掌握 **Vue** 相关技术，了解 Vue 的基本实现原理
+- 熟悉 **React** 与 **TypeScript** 技术栈
+- 熟练掌握 **Node**，熟悉 **Express.js，Koa.js，Egg.js** 框架
+- 热爱探索新技术，**Github** 活跃贡献者
+- 擅长 **Web性能优化**
+- 擅长 **前端工程化建设** ，能熟练使用 **Docker、Nginx**
 - 熟练掌握 **Git** 工作流，能够高效进行协同开发
-- 了解 **TypeScript + React.js + Redux** 技术栈
-- ~~了解 **Node.js**，与 **Express.js，Koa.js，Egg.js** 框架~~
-- ~~了解 **Golang、Python** 等后端语言~~
 
 
 ## 开源项目
 
-- Vue3 从入门到熟练系列文章
 - Vue3 脚手架
+- Vue3 从入门到熟练系列文章
+- React 脚手架
+- React 从入门到熟练系列文章
 
 ## 工作经历 
 
