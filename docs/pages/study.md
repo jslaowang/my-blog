@@ -4,23 +4,25 @@
 2. React + egg 记账本
 3. React Hooks 与 Immutable 数据流实战
 4. React + Egg 开发旅游电商
-5. React 源码
-6. TypeScript 类型体操
 7. 基于 TypeScript 从零重构 axios
+6. TypeScript 类型体操
 8. 前端xx之道webpack(徐小夕) / 使用webpack定制前端开发环境
 9. vite从入门到精通(imooc)
-10. 性能优化小册
-11. 八股文
-12. 设计模式
-13. 算法(imooc)
 14. docker + jenkins
-15. 脚手架
-16. 可视化入门: 从0到1开发一个图表库
-18. 从零开发H5可视化搭建项目
 17. 从0到1实现一套CI/CD流程
 19. 基于Node的DevOps实战
+15. 脚手架(Vite + Vue3 + TS)
+18. 从零开发H5可视化搭建项目
+16. 可视化入门: 从0到1开发一个图表库
+21. 玩转Vue3全家桶
+22. mini-vue
+11. 八股文
+10. 性能优化小册
+12. 设计模式
+13. 算法小册
+13. 算法(imooc)
+5. React 源码
 20. 微信小程序底层框架实现原理
-21. 玩转Vue3 全家桶
 
 
 ### 原生js

@@ -11,7 +11,7 @@
 |!important||10000|
 |内联样式||1000|
 |id 选择器|#id|100|
-|类选择器|#classname|10|
+|类选择器|.classname|10|
 |属性选择器|a[ref=“eee”]|10|
 |伪类选择器|li:last-child|10|
 |标签选择器|div|1|
@@ -46,7 +46,7 @@
 - 页面样式属性：size、page-break-before、page-break-after
 - 声音样式属性：pause-before、pause-after、pause、cue-before、cue-after、cue、play-during
 
-**不可继承：**
+**可继承：**
 - 字体系列属性
   - font-family：字体系列
   - font-weight：字体的粗细
