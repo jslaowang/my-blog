@@ -9,12 +9,13 @@
 - [早起魔法]() 
 
 ## JavaScript
- 
+
 - [JavaScript设计模式与开发实践]()
 - [JavaScript重难点实例精讲]()
 - [JavaScript高级程序设计（红宝书）]()
 - [你不知道的JavaScript （黄宝书）]()
 - [JavaScript 语言精髓与编程实践（绿宝书）]()
+- [JavaScript 语言精粹]()
 
 ##  TypeScript
  
